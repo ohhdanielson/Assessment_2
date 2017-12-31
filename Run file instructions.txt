@@ -1,0 +1,6 @@
+To run the prgramme please ensure the following are in the same directory:
+
+Assessment2.py
+drunk.txt
+
+Bring Assessment2.py into Spyder (available from https://pypi.python.org/pypi/spyder) and run the code. 
