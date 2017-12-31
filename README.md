@@ -9,11 +9,9 @@ The following files contain the code required to run an Agent Based Model (ABM) 
 
 To access these files please use the following links:
 
-https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/Assessment1_model.py
+https://github.com/ohhdanielson/Assessment_2/blob/master/Assessment2.py
 
-https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/agentframework_ABM.py
-
-https://raw.githubusercontent.com/ohhdanielson/ohhdanielson.github.io/master/raster.txt
+https://github.com/ohhdanielson/Assessment_2/blob/master/drunk.txt
 
 ## Prerequisites
 
