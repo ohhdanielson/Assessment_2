@@ -124,6 +124,10 @@ for y in range (num_of_steps):
         print ("still lost")
 """
 
+#distance between 2 agents
+answer = (((drunks[0][0] - drunks[1][0])**2) + ((drunks[0][1] - drunks[1][1])**2))**0.5
+print(answer) 
+
 #create variable for the house of drunk 250
 drunk250house = (environment[23][21:32],environment[24][21:32],environment[25][21:32],environment[26][21:32],environment[27][21:32],environment[28][21:32],environment[29][21:32],environment[30][21:32],environment[31][21:32],environment[32][21:32])
 print (drunk250house)
@@ -164,11 +168,5 @@ for drunks in range:
     if drunks[24] == drunk250house:
         break
     print ('Reached home')
-"""
-
-"""
-#distance between 2 agents
-answer = (((drunks[0][0] - drunks[1][0])**2) + ((drunks[0][1] - drunks[1][1])**2))**0.5
-print(answer) 
 """
 
